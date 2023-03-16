@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://a113ssa.github.io/posts/"
+          feed_list: "https://a113ssa.github.io/feed.xml"
