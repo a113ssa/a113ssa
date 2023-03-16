@@ -11,3 +11,5 @@ I'm a back-end developer specializing in Ruby on Rails framework and AWS cloud i
 #### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+___
+<p align="center"><a href="https://git.io/streak-stats" rel="button"><img src="http://github-readme-streak-stats.herokuapp.com?user=a113ssa&theme=dark&background=000000" align="center"/></a></p>
