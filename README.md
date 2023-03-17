@@ -7,6 +7,7 @@
 
 #### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [WriteUp#2: Machine Learning Basics](https://a113ssa.github.io/writeup/writeup-2/)
 - [WriteUp#1: Machine Learning Basics](https://a113ssa.github.io/writeup/writeup-1/)
 <!-- BLOG-POST-LIST:END -->
 
