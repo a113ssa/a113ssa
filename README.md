@@ -7,6 +7,7 @@
 
 #### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Learning Path to Machine Learning Engineering](https://a113ssa.github.io/learning-path/learning-path/)
 - [WriteUp#3: Learning of Data Cleaning with GPT-4](https://a113ssa.github.io/writeup/writeup-3/)
 - [WriteUp#2: Machine Learning Basics](https://a113ssa.github.io/writeup/writeup-2/)
 - [WriteUp#1: Machine Learning Basics](https://a113ssa.github.io/writeup/writeup-1/)
