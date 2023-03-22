@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+.timeline {
+    position: relative;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.timeline-item {
+    padding: 20px 0;
+    position: relative;
+}
+
+.timeline-item:before {
+    content: '';
+    position: absolute;
+    left: 50%;
+    top: 0;
+    width: 2px;
+    height: 100%;
+    background: #333;
+}
+
+.timeline-date {
+    position: absolute;
+    left: 50%;
+    width: 70px;
+    text-align: center;
+    margin-left: -35px;
+    background: #333;
+    color: #fff;
+    padding: 5px 0;
+    border-radius: 50%;
+}
+
+.timeline-content {
+    padding-left: 60px;
+}
+
+.timeline-content h4 {
+    margin-bottom: 10px;
+}
