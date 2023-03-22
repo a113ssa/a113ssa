@@ -7,6 +7,7 @@
 
 #### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Linear Algebra knowledge checklist](https://a113ssa.github.io/learn-with-gpt4/linear-algebra-check-list/)
 - [Learning Path to Machine Learning Engineering](https://a113ssa.github.io/learning-path/learning-path/)
 - [Matrix operations and their application in machine learning](https://a113ssa.github.io/learn-with-gpt4/matrix-operation-and-its-application/)
 - [Vector Spaces and Subspaces and their application in machine learning](https://a113ssa.github.io/learn-with-gpt4/vector-spaces-and-subspaces/)
