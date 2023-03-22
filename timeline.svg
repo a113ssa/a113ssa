@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="400" viewBox="0 0 800 400">
+  <style>
+    text, .tooltip { font: 12px sans-serif; }
+    .timeline { fill: none; stroke: #333; stroke-width: 3px; }
+    .point { fill: #ff6347; stroke: #333; stroke-width: 1.5px; }
+    .point:hover { cursor: pointer; fill: #ffcccb; }
+    .tooltip { display: none; }
+    .point:hover + .tooltip { display: block; }
+  </style>
+  
+  <line class="timeline" x1="50" y1="200" x2="750" y2="200" />
+  <circle class="point" cx="100" cy="200" r="8" />
+  <text class="tooltip" x="100" y="180">Course A - Start Date: YYYY-MM-DD</text>
+  <circle class="point" cx="200" cy="200" r="8" />
+  <text class="tooltip" x="200" y="220">Project B - Start Date: YYYY-MM-DD</text>
+  <circle class="point" cx="300" cy="200" r="8" />
+  <text class="tooltip" x="300" y="180">Milestone C - Date: YYYY-MM-DD</text>
+  <!-- Add more points and tooltips as needed -->
+</svg>
