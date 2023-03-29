@@ -9,13 +9,13 @@ Welcome to my <b>Learning Blog</b>: <a href="https://a113ssa.github.io/" rel="bu
 
 #### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Target &lpar;data&rpar; leakage](https://a113ssa.github.io/learn-with-gpt4/data-leakage/)
 - [Pipeline](https://a113ssa.github.io/learn-with-gpt4/pipeline/)
 - [Handling outliers](https://a113ssa.github.io/learn-with-gpt4/handling-outliers/)
 - [Offtop: Images of Cats-Cyborg-Farmer](https://a113ssa.github.io/offtop/offtop-cat-farmers/)
 - [Linear Algebra knowledge checklist](https://a113ssa.github.io/learn-with-gpt4/linear-algebra-check-list/)
 - [Learning Path to Machine Learning Engineering](https://a113ssa.github.io/learning-path/learning-path/)
 - [Matrix operations and their application in machine learning](https://a113ssa.github.io/learn-with-gpt4/matrix-operation-and-its-application/)
-- [Vector Spaces and Subspaces and their application in machine learning](https://a113ssa.github.io/learn-with-gpt4/vector-spaces-and-subspaces/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img src="https://komarev.com/ghpvc/?username=a113ssa&color=yellow" width="100px" height="20px"/></p>
