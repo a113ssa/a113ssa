@@ -1,5 +1,5 @@
 
-<p align="right"><img src="octocat-1695237904840.png" width="300px" height="300px" align="right"/></p>
+<p align="right"><img src="1.png" width="300px" height="300px" align="right"/></p>
 <p align="left"><p align="center"><b>Hi there 👋</b><br><img src="226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="50px" height="50px"/>
 
 I'm a back-end developer specializing in <i>  🔻Ruby on Rails framework</i> and   <i>☁️AWS cloud infrastructure</i> (using IaC with CDK and CloudFormation). But I have found that I love learning about   <b>🤖Robotics</b> and <b>Machine Learning (Computer Vision👀)</b> and I am actively learning the necessary Python tools and areas of mathematics that help me achieve my goal of moving from backend development to Robotics. <br>
