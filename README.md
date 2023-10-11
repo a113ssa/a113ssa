@@ -5,3 +5,5 @@ I'm a back-end developer specializing in <i>  🔻Ruby on Rails framework</i> an
 <img src="212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/><br>
 Welcome to my <b>Learning Blog</b>: <a href="https://a113ssa.github.io/" rel="button"><img src="https://github.com/a113ssa/a113ssa.github.io/blob/fc8cda1325cf18f8131eea5c8eff62550b49af53/images/logo.jpeg" width="50px" height="50px" align="center"/></a> <i>(Click on Cat)</i></p>
 
+<br><br>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a113ssa&layout=compact"><img src="https://widgetbite.com/stats/a113ssa" alt="watching_count" align="right" />
