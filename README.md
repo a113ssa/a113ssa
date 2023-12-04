@@ -7,5 +7,3 @@ In this space, you'll find my journey from orchestrating server-side symphonies 
 It's where my love for all things Robotic🤖 comes to life, as I acquire and share the skills necessary to turn a once far-fetched dream into a tangible reality.<br> 
 Join me in sowing the seeds🌱 for a future where robots nurture and nature thrives🍃🌟.</span></p>
 <br>
-<h2 align="center">Profile Statistics</h2>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a113ssa&theme=blue-green" /></div>
