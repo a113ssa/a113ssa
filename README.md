@@ -1,11 +1,20 @@
+Hello👋 I'm a Backend Software Engineer working on **IoT project**. I'm excited about learning **Smart Farming** technologies.
 
+🌿 **Exploring Smart Farming** <br>
+I'm new to Smart Farming but eager to learn. I plan to use my IoT experience to develop smarter farming methods. <br>
 
-<h2 align="center">Welcome to the Fusion of Smart Farming and Backend Development 🌾🤖💻</h2>
-<h3 align="center">Greetings, Digital Agriculturists!</h3>
-<p align="center">
+💻 **My Current Work** <br>
+Right now, I'm working as a Backend Developer on an IoT project for a mobile app that lets users book, share, and open lockers. This work is sharpening my skills in IoT. <br>
+
+🌾 **My Future Goals** <br>
+**Learn About Farming Tech**: I'm reading up and practicing skills for smart farming. <br>
+**Network with Experts**: I want to meet people who are working in smart farming. <br>
+**Share My Journey**: I'll post my learning and project updates related to smart farming on GitHub. <br>
+
 <kbd><a href="https://github.com/users/a113ssa/projects/3?pane=info"><img src="https://github.com/a113ssa/a113ssa/assets/95538451/1305a10d-551c-4608-9ebe-f5d0c9e1c591" height="220px"/></a></kbd><br>
-I'm a passionate <b>Backend Software Engineer</b> by trade💼, exploring the realms of <b>Smart Farming</b> by heart❤️<br>
-Here, you'll discover my journey blending server-side development with the innovation of agricultural technology🚜🌱<br>
-This place is where my expertise in backend development meets my enthusiasm for smart agriculture, as I develop and share tools that transform traditional farming into an intelligent, efficient system.<br>
-Join me in cultivating the landscape🌾 for a future where software engineering and smart farming intertwine, leading to more sustainable and productive agricultural practices🌍🍃</p>
-<br>
+
+📬 **Get in Touch** <br>
+I'm open to collaborating and sharing ideas about IoT and smart farming.
+
+📫 **Contact me**: [**Linkedin**](https://www.linkedin.com/in/kate-balabanovich/)
+
