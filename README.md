@@ -1,10 +1,10 @@
 Hello👋 I'm a Backend Software Engineer working on **IoT project**. I'm excited about learning **Smart Farming** technologies.
 
 🌿 **Exploring Smart Farming** <br>
-I'm new to Smart Farming but eager to learn. I plan to use my IoT experience to develop smarter farming methods. <br>
+I'm new to Smart Farming but eager to learn. I plan to use my **IoT experience** to develop smarter farming methods. <br>
 
 💻 **My Current Work** <br>
-Right now, I'm working as a Backend Developer on an IoT project for a mobile app that lets users book, share, and open lockers. This work is sharpening my skills in IoT. <br>
+Right now, I'm working as a **Backend Developer** on an **IoT project** for a mobile app that lets users book, share, and open lockers. This work is sharpening my skills in IoT. <br>
 
 🌾 **My Future Goals** <br>
 **Learn About Farming Tech**: I'm reading up and practicing skills for Smart Farming. <br>
