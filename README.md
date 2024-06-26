@@ -6,8 +6,8 @@ I am a Full-Stack developer with over <b>3 years of Software Development</b> exp
 <kbd><b>VR GAMES</b><br><br><img src="https://github.com/a113ssa/a113ssa/assets/95538451/1e2f7633-6f8a-41fe-afd2-611c55fb7eea" height=120px/></kbd> 
 </p><br>
 
-Currently I'm honing my skills in **Unreal Engine 5** with a focus on **VR Blueprint/C++** development. <br>
-I love tackling new challenges and crafting creative solutions. My goal is to continue growing and contributing to the latest technologies.
+Currently I am expanding my skills in **Unreal Engine 5**, focusing on **VR Blueprint/C++** development. <br>
+I enjoy taking on new challenges and finding creative solutions to problems. I aim to keep growing and contributing to exciting new technologies.
 
 **🎯 2024's Goals**:
 
