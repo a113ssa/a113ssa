@@ -1,16 +1,11 @@
 <p align="center">👋 <b>Hi there</b>!</p>
+
+I am a **Full-Stack developer** with over <b>3 years of Software Development</b> experience at <b>IoT project</b> excited about using Unreal Engine VR and Data Science to create a better future. These technologies can help us predict and solve problems before they happen. This can be very useful for Digital Twins, where we make a digital copy of something in the real world
+
 <p align="center">
-I am a Full-Stack developer with over <b>3 years of Software Development</b> experience at <b>IoT project</b>, passionate about:<br><br>
-<kbd><b>METAVERSE</b><br><br><img src="https://github.com/a113ssa/a113ssa/assets/95538451/d7ee2a59-8d2f-412d-aa70-dda0bddbf148" height=120px/></kbd>
-<kbd><b>DIGITAL TWIN</b><br><br><img src="https://github.com/a113ssa/a113ssa/assets/95538451/1d84cffc-ed8a-443a-9921-46136e09d49b" height=120px/></kbd>
-<kbd><b>VR GAMES</b><br><br><img src="https://github.com/a113ssa/a113ssa/assets/95538451/1e2f7633-6f8a-41fe-afd2-611c55fb7eea" height=120px/></kbd> 
+<kbd><a href="https://www.linkedin.com/in/kate-balabanovich/"><img src="https://github.com/a113ssa/a113ssa/assets/95538451/006f3627-fef8-43df-9651-49c5ea9da2c0" height=220px/></a></kbd>
 </p><br>
 
-Currently I am expanding my skills in **Unreal Engine 5**, focusing on **VR Blueprint/C++** development. <br>
-I enjoy taking on new challenges and finding creative solutions to problems. I aim to keep growing and contributing to exciting new technologies.
+I am learning more about **Unreal Engine 5** and focusing on **VR Blueprint and C++ development** and expanding my skills in **Data Science** and **Python** as well.
 
-**🎯 2024's Goals**:
-
-<kbd>✍ Acquiring **VR UE5** skills ✶  Click 👇<br><br><a href="https://github.com/users/a113ssa/projects/4/"><img src="https://github.com/a113ssa/a113ssa/assets/95538451/51891a7b-0ef8-4089-9598-5c1582e800a2" align="bottom" height="220px"/></a></kbd>
-<kbd>🎮 **Shiba VRcade** development ✶  Click 👇<br><br><a href="https://github.com/Shiba-VRcade"><img src="https://github.com/a113ssa/a113ssa/assets/95538451/21ae44da-7d4b-4cc7-98ad-c608dd86e002" height="220px"/></a></kbd>
-<kbd>✶ 🪄Take motivation🪄 🙃 ✶  <br><br><a href="https://media.giphy.com/media/UqZ4imFIoljlr5O2sM/giphy.gif"><img src="https://media.giphy.com/media/UqZ4imFIoljlr5O2sM/giphy.gif" height="220px"/></a></kbd>
+I like to take on new challenges and find creative solutions. My goal is to keep learning and help build amazing new technologies for the future.
