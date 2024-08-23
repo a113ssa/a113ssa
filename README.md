@@ -6,11 +6,3 @@ I am learning more about **OpenUSD/Omniverse**, **Unreal Engine 5** (C++/Bluepri
 
 I like to take on new challenges and find creative solutions. My goal is to keep learning and help build amazing new technologies for the future.
 <hr>
-
-<p align="center">
-Just take the violin mood 🎻: <br><br>
-<kbd>
-  <b>▶︎•၊၊||၊|။||||။၊|။• Click on the image!</b><br>
-  <a href="https://www.youtube.com/watch?v=TCL94-MsxYc"><img src="https://img.youtube.com/vi/TCL94-MsxYc/0.jpg"></a>
-</kbd>
-</p>
