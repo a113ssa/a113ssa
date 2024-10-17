@@ -1,9 +1,9 @@
 <img src="https://github.com/user-attachments/assets/0d8458d6-5fa7-4b61-a9ed-56bda02c10e8" align="right" height="350">
 <p align="center">👋 <b>Hi there</b>!</p>
 
-I am a **Full-Stack developer** with over <b>3 years of Software Development</b> experience at <b>IoT project</b> excited about using **Digital Twin** to create a better future. This technology can help us predict and solve problems before they happen.
+I'm advancing my knowledge in **Machine Learning (Computer Vision)** as part of the capabilities of **Digital Twin** technology and its applications in the **Smart City** and **Industrial Metaverse** sectors.
 
-I am particularly interested in exploring the predictive capabilities of Digital Twins through **Data Science** and **Machine Learning**. 
+With over **3 years of experience as a Full Stack Software Engineer on IoT project**, I have a strong background in building and managing complex systems using Ruby on Rails (backend), ReactJS (frontend), and AWS (cloud infrastructure)
 
 I am actively seeking out learning materials, tools, and research papers to deepen my understanding of how predictive analytics can enhance Digital Twin development. I believe that integrating these advanced analytics will not only improve operational efficiency but also foster innovation in the realms of Smart Cities and the Industrial Metaverse.
 
