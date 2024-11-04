@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/0d8458d6-5fa7-4b61-a9ed-56bda02c10e8" align="right" height="350">
 <p align="center">👋 <b>Hi there</b>!</p>
 
-I'm a **Software Engineer** with **over 3 years of experience** as a **FullStack Developer (Backend, Frontend and Cloud) on IoT project**. 
+I'm a **Software Engineer** with **over 3 years of experience** as a **Full Stack Developer (Backend, Frontend and Cloud) on IoT project**. 
 
 Now I'm expanding my knowledge in **Machine Learning (Computer Vision)** as part of the possibilities of **Industry 4.0** and its applications in the **Smart City, Industrial Metaverse, Digital Twin and Robotics** sectors. 
 
