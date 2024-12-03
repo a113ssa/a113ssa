@@ -3,7 +3,7 @@
 
 I'm a **Software Engineer** with **over 3 years of experience** as a **Full Stack Developer (Backend, Frontend and Cloud) on IoT project**. 
 
-Now I'm expanding my knowledge in **Python backend** and **Machine Learning (Computer Vision)** as part of the possibilities of **Industry 5.0** and its applications in the **Smart City, Industrial Metaverse, Digital Twin and Robotics** sectors. 
+Now I'm expanding my knowledge in **Python backend** and **Machine Learning** as part of the possibilities of **Industry 5.0** and its applications in the **Smart City, Industrial Metaverse, Digital Twin and Robotics** sectors. 
 
 My strong background in building and managing complex systems helps me to achieve this goal.
 
