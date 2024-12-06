@@ -13,7 +13,7 @@ Now I'm expanding my knowledge in **Python backend** and **Machine Learning** as
 ✶ 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹𝘀: HTTP/HTTPS • MQTT • SSH  <br>
 ✶ 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗻𝗴 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 (𝘂𝘀𝗲𝗿): Linux • Windows • MacOS  <br>
 ✶ 𝗧𝗼𝗼𝗹𝘀: Git • Jira • Postman • Swagger • Docker • Rails console • JupyterLab • Visual Studio Code • Linters • Command Line Interface (CLI)  <br>
-✶ 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀: IoT • JWT • API • JSON  <br>
+✶ 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀: IoT • JWT • API • REST API • JSON  <br>
 ✶ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗽𝗿𝗶𝗻𝗰𝗶𝗽𝗹𝗲𝘀: OOP • SOLID • KISS • DRY • Unit testing • CI/CD  <br>
 ✶ 𝗖𝘆𝗯𝗲𝗿𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗽𝗿𝗶𝗻𝗰𝗶𝗽𝗹𝗲𝘀: OWASP Top 10 recommendations • Authorization • Authentication • Encryption • Encoding • Hashing  <br>
 ✶ 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝘀𝗸𝗶𝗹𝗹𝘀 (Beginner): Deep Learning • Convolutional Neural Network (CNN) • Fine-Tuning • Transfer Learning • Tensorflow • Keras • Pandas • Matplotlib  <br>
