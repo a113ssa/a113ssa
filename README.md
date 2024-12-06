@@ -23,4 +23,4 @@ Now I'm expanding my knowledge in **Python backend** and **Machine Learning** as
 <kbd><a href="https://www.linkedin.com/in/kate-balabanovich/"><img src="https://github.com/user-attachments/assets/4c975968-3aa0-49ea-8196-fc3af0aa3531" height="20"/></a></kbd>   <kbd><a href="https://www.kaggle.com/a113ssa"><img src="https://github.com/user-attachments/assets/a04c121a-eccf-4beb-a6ae-893658eafd43" height="20"/></a></kbd>   <kbd><a href="https://leetcode.com/u/a113ssa/"><img src="https://github.com/user-attachments/assets/899bc762-247e-4de8-9866-26cbd8a3d7b3" height="20"/></a></kbd>
 <hr/>
 
-<kbd><img src="https://github-readme-stats.vercel.app/api?username=a113ssa&show_icons=true&theme=vision-friendly-dark" height="150px"/></kbd> <kbd><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a113ssa&layout=compact&theme=vision-friendly-dark" height="150px"/></kbd>
+<kbd><img src="https://github-readme-stats.vercel.app/api?username=a113ssa&show_icons=true&theme=github_dark" height="150px"/></kbd> <kbd><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a113ssa&layout=compact&theme=github_dark" height="150px"/></kbd>
