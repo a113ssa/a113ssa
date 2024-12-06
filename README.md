@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/92b22740-6a77-42f1-baf8-68d71da0808b" align="right" height="700px"/>
+<img src="https://github.com/user-attachments/assets/92b22740-6a77-42f1-baf8-68d71da0808b" align="right" height="650px"/>
 <p align="center">👋 <b>Hi there</b>!</p>
 
 I'm a **Software Engineer** with **over 3 years of experience** as a **Full Stack Developer (Backend, Frontend and Cloud) on IoT project**. 
@@ -23,4 +23,5 @@ Now I'm expanding my knowledge in **Python backend** and **Machine Learning** as
 <kbd><a href="https://www.linkedin.com/in/kate-balabanovich/"><img src="https://github.com/user-attachments/assets/4c975968-3aa0-49ea-8196-fc3af0aa3531" height="20"/></a></kbd>   <kbd><a href="https://www.kaggle.com/a113ssa"><img src="https://github.com/user-attachments/assets/a04c121a-eccf-4beb-a6ae-893658eafd43" height="20"/></a></kbd>   <kbd><a href="https://leetcode.com/u/a113ssa/"><img src="https://github.com/user-attachments/assets/899bc762-247e-4de8-9866-26cbd8a3d7b3" height="20"/></a></kbd>
 <hr/>
 
-<kbd><img src="https://github-readme-stats.vercel.app/api?username=a113ssa&show_icons=true&theme=github_dark" height="150px"/></kbd> <kbd><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a113ssa&layout=compact&theme=github_dark" height="150px"/></kbd>
+
+<img src="https://github.com/user-attachments/assets/683d6470-5c4f-48ea-901f-b8416880d72d"/>
