@@ -1,5 +1,8 @@
-<img src="https://github.com/user-attachments/assets/92b22740-6a77-42f1-baf8-68d71da0808b" align="right" height="650px"/>
+<img src="https://github.com/user-attachments/assets/b1307229-72ee-428f-b387-aa66ca8e6630"/>
+<img src="https://github.com/user-attachments/assets/2432eef7-bd08-4070-9de7-eaeffcca0cd6" align="left" height="100%"/>
+<img src="https://github.com/user-attachments/assets/87b03def-589c-4737-930a-12751e614b25" align="right"/>
 <p align="center">👋 <b>Hi there</b>!</p>
+
 
 I'm a **Software Engineer** with **over 3 years of experience** as a **Full Stack Developer (Backend, Frontend and Cloud) on IoT project**. 
 
@@ -19,9 +22,9 @@ Now I'm expanding my knowledge in **Python backend** and **Machine Learning** as
 ✶ 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝘀𝗸𝗶𝗹𝗹𝘀 (Beginner): Deep Learning • Convolutional Neural Network (CNN) • Fine-Tuning • Transfer Learning • Tensorflow • Keras • Pandas • Matplotlib  <br>
 ✶ 𝗚𝗮𝗺𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝘀 (Beginner): Unity • Unreal Engine  <br>
 ✶ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: English (B1) • Russian (Native) • Japanese (N5)  <br>
-
-<kbd><a href="https://www.linkedin.com/in/kate-balabanovich/"><img src="https://github.com/user-attachments/assets/4c975968-3aa0-49ea-8196-fc3af0aa3531" height="20"/></a></kbd>   <kbd><a href="https://www.kaggle.com/a113ssa"><img src="https://github.com/user-attachments/assets/a04c121a-eccf-4beb-a6ae-893658eafd43" height="20"/></a></kbd>   <kbd><a href="https://leetcode.com/u/a113ssa/"><img src="https://github.com/user-attachments/assets/899bc762-247e-4de8-9866-26cbd8a3d7b3" height="20"/></a></kbd>
 <hr/>
+<kbd><a href="https://www.linkedin.com/in/kate-balabanovich/"><img src="https://github.com/user-attachments/assets/4c975968-3aa0-49ea-8196-fc3af0aa3531" height="20"/></a></kbd>   <kbd><a href="https://www.kaggle.com/a113ssa"><img src="https://github.com/user-attachments/assets/a04c121a-eccf-4beb-a6ae-893658eafd43" height="20"/></a></kbd>   <kbd><a href="https://leetcode.com/u/a113ssa/"><img src="https://github.com/user-attachments/assets/899bc762-247e-4de8-9866-26cbd8a3d7b3" height="20"/></a></kbd>
+
+<img src="https://github.com/user-attachments/assets/b49e234e-2a65-42b0-bdf6-326300196199"/>
 
 
-<img src="https://github.com/user-attachments/assets/683d6470-5c4f-48ea-901f-b8416880d72d"/>
