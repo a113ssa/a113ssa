@@ -1,8 +1,7 @@
 <img src="https://github.com/user-attachments/assets/b1307229-72ee-428f-b387-aa66ca8e6630"/>
-<img src="https://github.com/user-attachments/assets/2432eef7-bd08-4070-9de7-eaeffcca0cd6" align="left" height="100%"/>
-<img src="https://github.com/user-attachments/assets/87b03def-589c-4737-930a-12751e614b25" align="right"/>
+<img src="https://github.com/user-attachments/assets/d668ef3a-5d6d-4966-857a-1a7b6a7fa8ee" align="left" height="100%"/>
+<img src="https://github.com/user-attachments/assets/84790743-74e5-4673-a72c-a664dc2d37fa" align="right"/>
 <p align="center">👋 <b>Hi there</b>!</p>
-
 
 I'm a **Software Engineer** with **over 3 years of experience** as a **Full Stack Developer (Backend, Frontend and Cloud) on IoT project**. 
 
