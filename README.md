@@ -1,12 +1,13 @@
 <img src="https://github.com/user-attachments/assets/b1307229-72ee-428f-b387-aa66ca8e6630"/>
 <img src="https://github.com/user-attachments/assets/d668ef3a-5d6d-4966-857a-1a7b6a7fa8ee" align="left" height="100%"/>
 <img src="https://github.com/user-attachments/assets/84790743-74e5-4673-a72c-a664dc2d37fa" align="right"/>
-<p align="center">👋 <b>Hi there</b>!</p>
+<p align="center"><br><br>👋 <b>Hi there</b>!</p>
+<br>
 
 I'm a **Software Engineer** with **over 3 years of experience** as a **Full Stack Developer (Backend, Frontend and Cloud) on IoT project**. 
 
 Now I'm expanding my knowledge in **Python backend** and **Machine Learning** as part of the possibilities of **Industry 5.0** and its applications in the **Smart City, Industrial Metaverse, Digital Twin and Robotics** sectors. 
-
+<hr>
 𝗦𝗸𝗶𝗹𝗹𝘀:  <br>
 ✶ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: Ruby • Python • TypeScript • Bash • PowerShell • SQL <br>
 ✶ 𝗖𝗹𝗼𝘂𝗱𝘀: Amazon Web Services (AWS) (IoT Core • Lambda • Command Line Interface • Identity and Access Management (IAM) • Elastic Container Service (ECS) • Fargate • Aurora Serverless • Route 53 • LoadBalancers • CloudFormation • Cloud Development Kit (CDK))  <br>
