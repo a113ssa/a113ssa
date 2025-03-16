@@ -1,1 +1,1 @@
-<p align="center"><kbd>Click to visit my Linkedin profile:<br><br><a href="https://www.linkedin.com/in/kate-balabanovich/"><img src="https://github.com/user-attachments/assets/ef5c8a23-9226-424f-997a-76aa69bf047a" height="150" width="300"/></a></kbd> <kbd>Click to see my CV:<br><br><a href="https://docs.google.com/document/d/13_Z1-7x9poBeIgz2PzFqfmNTTwJlmKnasA9XsLHG0Mo/edit?usp=sharing"><img src="https://github.com/user-attachments/assets/e0ec8c2b-57c6-40a5-bb7a-fb13311ef2eb" height="150" width="300"/></a></kbd></p>
+
