@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/user-attachments/assets/4e23fb53-cb0f-4f59-9048-f48a3e54e0a3" height="200px">
+<img align="right" src="https://github-stats-extended.vercel.app/api/top-langs?username=a113ssa&layout=compact&langs_count=3&theme=dark" height="200px">
 
 Hi, I'm **Kate**.<br><br>
 I'm a **Software Engineer with 4+ years of experience** in backend (Ruby/Python), frontend (React), and cloud (AWS).<br>
